@@ -59,7 +59,7 @@ export default function LandingPage() {
       }}
       title="Elevate Your Dining Experience"
       description="Crafting bespoke culinary journeys in the comfort of your own home. Let Chef Artisan transform your next evening into a masterpiece."
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-woman-eating-fried-fish-with-mashed-potatoes-vegetables-plate_141793-12535.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-woman-eating-fried-fish-with-mashed-potatoes-vegetables-plate_141793-12535.jpg?_wi=1"
       imageAlt="Chef plating gourmet dish"
     />
   </div>
@@ -192,7 +192,7 @@ export default function LandingPage() {
           button: {
             text: "Book Now",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-eating-fried-fish-with-mashed-potatoes-vegetables-plate_141793-12535.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-eating-fried-fish-with-mashed-potatoes-vegetables-plate_141793-12535.jpg?_wi=2",
           imageAlt: "Waiter holding a plate of fried aubergine wraps with walnuts",
         },
         {
